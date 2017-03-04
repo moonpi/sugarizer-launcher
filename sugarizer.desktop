@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Sugarizer
+Comment=A taste of sugar on Kano.
+Exec=chromium --app=http://server.sugarizer.org/
+Icon=/opt/kano/sugarizer-launcher/sugarizer-icon.png
+Type=Application
+Categories=Application;Education;
