@@ -14,3 +14,6 @@ or
 
 ```sh
 wget --no-check-certificate https://goo.gl/5rHyQo -O - | bash
+```
+
+based on https://github.com/KanoComputing/codecademy-launcher by CalumJEadie and Thang Nguyen 
